@@ -15,3 +15,6 @@ const numbers = [ 1, 3, 5, 6, 98, 23, 76, 87 ];
 const totalSum = numbers.reduce((acc, num ) => acc + num, 0) ;
 console.log('Total sum Numner is', totalSum);
 
+
+// Sob gula manke eksathe jug kore ante chaile eitai holo reduce
+
