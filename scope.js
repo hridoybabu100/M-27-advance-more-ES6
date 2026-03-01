@@ -13,3 +13,11 @@ function add ( a, b ){
 // scope vaire theke acces kora jainna
 
 // er mne ami scope e bitore vitorer variable kew chnage korte pari.
+const ki = 2.37 ;
+function name( x, y ){
+    const run = 20 ;
+    const result = ( x + y ) * run + ki ;
+    return result 
+}
+const allResult = name( 20, 40 );
+console.log(allResult);
